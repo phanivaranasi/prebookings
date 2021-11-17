@@ -1,2 +1,2 @@
-C
-6D:\Mongo_API\PreBookings\PreBookings.Service\Class1.csr
+G
+:D:\Mongo_API\PreBookings\PreBookings.Application\Class1.csr

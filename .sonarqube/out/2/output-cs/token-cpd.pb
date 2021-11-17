@@ -1,10 +1,10 @@
-‹
-=D:\Mongo_API\PreBookings\PreBookings.Infrastructure\Class1.cs
+û
+5D:\Mongo_API\PreBookings\PreBookings.Domain\Class1.cs
 	namespace 	
 PreBookings
  
-. 
-Infrastructure $
+. 
+Domain 
 { 
 public 
 

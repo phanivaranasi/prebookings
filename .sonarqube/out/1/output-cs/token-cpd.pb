@@ -1,10 +1,10 @@
-…
-:D:\Mongo_API\PreBookings\PreBookings.Application\Class1.cs
+ý
+6D:\Mongo_API\PreBookings\PreBookings.Service\Class1.cs
 	namespace 	
 PreBookings
  
-. 
-Application !
+. 
+Service 
 { 
 public 
 
