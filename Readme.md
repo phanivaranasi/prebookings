@@ -1,4 +1,5 @@
-Prebookings API is for managing your bookings, it can be a any kind of product
-
-[![.NET](https://github.com/phanivaranasi/prebookings/actions/workflows/dotnet.yml/badge.svg)](https://github.com/phanivaranasi/prebookings/actions/workflows/dotnet.yml)
-[![Code Smells](https://github.com/phanivaranasi/prebookings/actions/workflows/dotnet.yml/badge.svg)](https://github.com/phanivaranasi/prebookings/actions/workflows/dotnet.yml)
+[![Build](https://github.com/phanivaranasi/prebookings/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/phanivaranasi/prebookings/actions/workflows/main.yml)
+[![Coverage](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=coverage)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
+[![Code Smells](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=code_smells)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
+[![Bugs](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=bugs)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
+[![Quality Gate Status](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=alert_status)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
