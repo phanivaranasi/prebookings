@@ -1,0 +1,10 @@
+﻿D:\Mongo_API\PreBookings\PreBookings.API\Controllers\ProductTypeController.cs
+D:\Mongo_API\PreBookings\PreBookings.API\Program.cs
+D:\Mongo_API\PreBookings\PreBookings.API\Startup.cs
+D:\Mongo_API\PreBookings\PreBookings.API\WeatherForecast.cs
+D:\Mongo_API\PreBookings\PreBookings.API\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\Mongo_API\PreBookings\PreBookings.API\obj\Debug\net5.0\PreBookings.API.AssemblyInfo.cs
+D:\Mongo_API\PreBookings\PreBookings.API\obj\Debug\net5.0\PreBookings.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Mongo_API\PreBookings\PreBookings.API\appsettings.Development.json
+D:\Mongo_API\PreBookings\PreBookings.API\appsettings.json
+D:\Mongo_API\PreBookings\PreBookings.API\Properties\launchSettings.json

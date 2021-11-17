@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <ProjectGuid>{8F192D1A-1ACB-48EF-B7B6-D40B12865A22}</ProjectGuid>
   </PropertyGroup>
 
 </Project>

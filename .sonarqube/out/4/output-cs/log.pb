@@ -1,0 +1,1 @@
+Roslyn version: 3.9.0.0Language version: CSharp9"Concurrent execution: disabledîèFile 'D:\Mongo_API\PreBookings\PreBookings.Service\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs' was recognized as generatedâÑFile 'D:\Mongo_API\PreBookings\PreBookings.Service\obj\Debug\net5.0\PreBookings.Service.AssemblyInfo.cs' was recognized as generated

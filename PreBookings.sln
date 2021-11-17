@@ -3,20 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.API", "PreBookings.API\PreBookings.API.csproj", "{78A84B78-7687-455B-A941-312FD9C79A46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreBookings.API", "PreBookings.API\PreBookings.API.csproj", "{78A84B78-7687-455B-A941-312FD9C79A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.Infrastructure", "PreBookings.Infrastructure\PreBookings.Infrastructure.csproj", "{8E9CBF27-D40E-439F-8B73-3B8D0583900C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreBookings.Infrastructure", "PreBookings.Infrastructure\PreBookings.Infrastructure.csproj", "{8E9CBF27-D40E-439F-8B73-3B8D0583900C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.Domain", "PreBookings.Domain\PreBookings.Domain.csproj", "{9FAB7725-C54E-4B75-A9BD-03ED3EDF2442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreBookings.Domain", "PreBookings.Domain\PreBookings.Domain.csproj", "{9FAB7725-C54E-4B75-A9BD-03ED3EDF2442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.Service", "PreBookings.Service\PreBookings.Service.csproj", "{CFAD4FED-BB14-45CF-9508-75E87108589A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreBookings.Service", "PreBookings.Service\PreBookings.Service.csproj", "{CFAD4FED-BB14-45CF-9508-75E87108589A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.Application", "PreBookings.Application\PreBookings.Application.csproj", "{BDC92BBC-9CC6-468E-B8A8-4FC69C4D931C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PreBookings.Application", "PreBookings.Application\PreBookings.Application.csproj", "{BDC92BBC-9CC6-468E-B8A8-4FC69C4D931C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{52992AC5-2833-48CB-A50F-1A0982642B62}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.md = Readme.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreBookings.Test", "PreBookings.Test\PreBookings.Test.csproj", "{98567FA5-6860-4A32-AAF1-31282D262614}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{BDC92BBC-9CC6-468E-B8A8-4FC69C4D931C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC92BBC-9CC6-468E-B8A8-4FC69C4D931C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC92BBC-9CC6-468E-B8A8-4FC69C4D931C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98567FA5-6860-4A32-AAF1-31282D262614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98567FA5-6860-4A32-AAF1-31282D262614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98567FA5-6860-4A32-AAF1-31282D262614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98567FA5-6860-4A32-AAF1-31282D262614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
