@@ -1,5 +1,5 @@
-[![Build](https://github.com/phanivaranasi/prebookings/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/phanivaranasi/prebookings/actions/workflows/main.yml)
-[![Coverage](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=coverage)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
-[![Code Smells](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=code_smells)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
-[![Bugs](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=bugs)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
-[![Quality Gate Status](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=alert_status)](http://789c-2401-4900-1c0e-6df6-559a-158d-446b-8e2d.ngrok.io/dashboard?id=phanivaranasi_prebookings)
+[![Build](https://github.com/phanivaranasi/prebookings/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/phanivaranasi/prebookings/actions/workflows/codescan.yml)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=coverage)](https://sonarcloud.io/summary/new_code?id=phanivaranasi_prebookings)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=bugs)](https://sonarcloud.io/summary/new_code?id=phanivaranasi_prebookings)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=phanivaranasi_prebookings&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=phanivaranasi_prebookings)
+
